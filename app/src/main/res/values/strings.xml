@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diiwaan</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sync_account_type">com.gmail.ahmedozmaan</string>
+    <string name="content_authority">com.gmail.ahmedozmaan.diiwaan</string>
+
+</resources>
